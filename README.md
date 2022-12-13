@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://www.davidlangat.me](https://www.davidlangat.me)
+- 👨‍💻 All of my projects are available at [https://davidlangat.me/](https://davidlangat.me/)
 
 - 💬 Ask me about **React, Vue, PHP**
 
