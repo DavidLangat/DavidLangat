@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://davidlangat.me/](https://davidlangat.me/)
 
-- 💬 Ask me about **React, Vue, PHP**
+- 💬 Ask me about **React, Vue, PHP ,React Native**
 
 - 📫 How to reach me **dkipkirui12@gmail.com**
 
