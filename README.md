@@ -73,7 +73,7 @@ Experienced Fullstack Developer specializing in crafting responsive and intuitiv
 
 </div>
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Experienced Fullstack Developer specializing in crafting responsive and intuitiv
 - **[Travel Companion](https://github.com/yourusername)** - App for planning trips and discovering attractions
   - Technologies: Kotlin, Google Maps API, Firebase
 
-</details>
+</details> -->
 
 ## 📊 GitHub Stats
 
