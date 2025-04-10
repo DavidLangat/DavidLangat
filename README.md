@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=David+Langat+%7C+Fullstack+Developer;Mobile+%26+Web+Applications;React+%7C+Vue+%7C+PHP+%7C+React+Native;AI+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=David+Langat+%7C+Senior+Software+Engineer;Mobile+%26+Web+Applications;React+%7C+Vue+%7C+PHP+%7C+React+Native;AI+%26+Machine+Learning" alt="Typing SVG" />
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-davidlangat.me-0969DA?style=for-the-badge&logo=safari&logoColor=white)](https://davidlangat.me/)
   [![Resume](https://img.shields.io/badge/Resume-View_CV-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white)](https://davidlangat.github.io/my-resume/)
   [![Email](https://img.shields.io/badge/Email-dkipkirui12@gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkipkirui12@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-david--langat12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-langat12)
+  
 </div>
 
 ## 👨‍💻 About Me
 
-Experienced Fullstack Developer specializing in crafting responsive and intuitive web and mobile applications. Passionate about building accessible software that solves real-world problems, with expertise in React, Vue, PHP, React Native, Django, and Laravel. Currently exploring AI and machine learning integration with Swift for mobile applications.
+Experienced Fullstack Developer with proven experience in the information technology industry. Specializing in Full Stack Development, Team Leadership, and Software Design with expertise in React, Vue, PHP, React Native, Django, and Laravel. Passionate about building accessible software that solves real-world problems and mentoring junior developers. Currently exploring AI and machine learning integration with Swift for mobile applications.
 
 <details>
 <summary>🌱 Currently...</summary>
@@ -28,6 +30,7 @@ Experienced Fullstack Developer specializing in crafting responsive and intuitiv
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -53,6 +56,7 @@ Experienced Fullstack Developer specializing in crafting responsive and intuitiv
 ### AI & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
 ![CreateML](https://img.shields.io/badge/CreateML-000000?style=flat-square&logo=apple&logoColor=white)
 
@@ -121,10 +125,11 @@ Experienced Fullstack Developer specializing in crafting responsive and intuitiv
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-david--langat12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-langat12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidlangat.me-0969DA?style=for-the-badge&logo=safari&logoColor=white)](https://davidlangat.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidLangat)
+[![GitHub](https://img.shields.io/badge/GitHub-DavidLangat-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidLangat)
+[![Email](https://img.shields.io/badge/Email-dkipkirui12@gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkipkirui12@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B254_745_397_463-0969DA?style=for-the-badge&logo=phone&logoColor=white)](tel:+254745397463)
 
 </div>
 
