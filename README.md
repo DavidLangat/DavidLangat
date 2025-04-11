@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=David+Langat+%7C+Senior+Software+Engineer;Mobile+%26+Web+Applications;React+%7C+Vue+%7C+PHP+%7C+React+Native;AI+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=David+Langat+%7C+Software+Engineer;Mobile+%26+Web+Applications;React+%7C+Vue+%7C+PHP+%7C+React+Native;AI+%26+Machine+Learning" alt="Typing SVG" />
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-davidlangat.me-0969DA?style=for-the-badge&logo=safari&logoColor=white)](https://davidlangat.me/)
   [![Resume](https://img.shields.io/badge/Resume-View_CV-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white)](https://davidlangat.github.io/my-resume/)
