@@ -1,142 +1,85 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=David+Langat+%7C+Software+Engineer;Mobile+%26+Web+Applications;React+%7C+Vue+%7C+PHP+%7C+React+Native;AI+%26+Machine+Learning" alt="Typing SVG" />
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-davidlangat.me-0969DA?style=for-the-badge&logo=safari&logoColor=white)](https://davidlangat.me/)
-  [![Resume](https://img.shields.io/badge/Resume-View_CV-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white)](https://davidlangat.github.io/my-resume/)
-  [![Email](https://img.shields.io/badge/Email-dkipkirui12@gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkipkirui12@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-david--langat12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-langat12)
-  
-</div>
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│  DAVID LANGAT                                                │
+│  Senior Full-Stack Software Engineer                         │
+│  Nairobi, Kenya  ·  davidlangat.me                           │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
-## 👨‍💻 About Me
-
-Experienced Fullstack Developer with proven experience in the information technology industry. Specializing in Full Stack Development, Team Leadership, and Software Design with expertise in React, Vue, PHP, React Native, Django, and Laravel. Passionate about building accessible software that solves real-world problems and mentoring junior developers. Currently exploring AI and machine learning integration with Swift for mobile applications.
-
-<details>
-<summary>🌱 Currently...</summary>
-<br>
-
-- 🔭 Working on Mobile Applications with AI integration
-- 🧠 Deepening knowledge in machine learning and AI with Swift
-- 🚀 Exploring new frontend performance optimization techniques
-- 👯 Open to collaborating on interesting web, mobile, and AI projects
-
-</details>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### AI & Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
-![CreateML](https://img.shields.io/badge/CreateML-000000?style=flat-square&logo=apple&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
-
-<!-- ## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidLangat&repo=MONEY-MANAGEMENT-SYSTEM&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidLangat&repo=SCHOOL-MANAGEMENT-SYSTEM-BACKEND&theme=react&hide_border=true" />
-</a>
-
-</div>
-
-<details>
-<summary>📂 More Projects</summary>
-<br>
-
-### Web Applications
-
-- **[E-commerce Platform](https://github.com/yourusername)** - A full-featured online store with payment processing
-  - Technologies: React, Node.js, MongoDB, Stripe
-- **[Task Management App](https://github.com/yourusername)** - Collaborative project management tool
-  - Technologies: Vue.js, Laravel, MySQL
-
-### Mobile Applications
-
-- **[Fitness Tracker](https://github.com/yourusername)** - Mobile app for tracking workouts and nutrition
-  - Technologies: React Native, Firebase
-- **[Travel Companion](https://github.com/yourusername)** - App for planning trips and discovering attractions
-  - Technologies: Kotlin, Google Maps API, Firebase
-
-</details> -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLangat&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLangat&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidLangat&theme=react&hide_border=true" />
-</div>
-
-## 🔗 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-david--langat12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-langat12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-davidlangat.me-0969DA?style=for-the-badge&logo=safari&logoColor=white)](https://davidlangat.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-DavidLangat-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidLangat)
-[![Email](https://img.shields.io/badge/Email-dkipkirui12@gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkipkirui12@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B254_745_397_463-0969DA?style=for-the-badge&logo=phone&logoColor=white)](tel:+254745397463)
-
-</div>
+<p align="left">
+  <a href="https://davidlangat.me/">Portfolio</a> ·
+  <a href="https://davidlangat.github.io/my-resume/">CV</a> ·
+  <a href="https://linkedin.com/in/david-langat12">LinkedIn</a> ·
+  <a href="mailto:dkipkirui12@gmail.com">Email</a> ·
+  <a href="https://github.com/DavidLangat">GitHub</a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidLangat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
-  
-  <p><i>💡 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." – Patrick McKenzie</i></p>
-</div>
+I design and ship **production software** — web platforms, mobile apps, AI-enabled products, and enterprise systems — with an emphasis on clean architecture, strong UX, and code that stays maintainable under real load.
+
+Five-plus years across the full stack: React & Next.js on the client, Node.js / Python / PHP on the server, PostgreSQL & MySQL at the data layer, and cloud deployments that stay up. Deep interest in **AI**, **fintech**, **automation**, and **SaaS** — and in technology that helps businesses across Africa and beyond work smarter.
+
+---
+
+### Systems shipped
+
+| Surface | Signal |
+| :--- | :--- |
+| Commerce at scale | E-commerce platforms serving **30k+** daily users |
+| Capital markets | Trading systems with real-time data, auth, and audit-grade security |
+| Operations | Logistics, talent, and SaaS products with multi-tenant architecture |
+| Product UI | Design systems of **80–100+** components; Lighthouse scores into the **90s** |
+| Performance | Redis caching and query design cutting response times from **~800ms → ~150ms** |
+
+---
+
+### Stack
+
+```text
+frontend     React · Next.js · Vue · TypeScript · Tailwind · Redux · React Query
+mobile       React Native · Expo · Swift · Kotlin · PWA
+backend      Node.js · Express · NestJS · Spring Boot · PHP · Laravel · GraphQL
+data         PostgreSQL · MySQL · MongoDB · Redis · Supabase · Firebase
+cloud        AWS · Azure · Docker · GitHub Actions · DigitalOcean · Nginx
+intelligence TensorFlow · Azure ML · Core ML · Create ML
+```
+
+---
+
+<!--
+### Selected work
+
+| Project | Notes |
+| :--- | :--- |
+| [Portfolio](https://davidlangat.me/) | Live products and write-ups |
+| [MONEY-MANAGEMENT-SYSTEM](https://github.com/DavidLangat/MONEY-MANAGEMENT-SYSTEM-PANGA-SALO-) | Personal finance / money management |
+| [E-commerce-vue](https://github.com/DavidLangat/E-commerce-vue) | Storefront in Vue |
+| [Food_Delivery_App](https://github.com/DavidLangat/Food_Delivery_App) | Delivery product flows |
+| [To-Do-List-React-Native](https://github.com/DavidLangat/To-Do-List-React-Native) | Mobile with React Native |
+| [Node_MySQL_Server](https://github.com/DavidLangat/Node_MySQL_Server) | Node API + React client |
+
+---
+-->
+
+### Principles
+
+- **Solve the business problem first** — then choose the stack.
+- Prefer systems that are **secure, observable, and boringly reliable**.
+- Treat UX as part of the architecture, not a coat of paint.
+- Leave codebases better than you found them — reviews, docs, and clear boundaries.
+
+---
+
+### Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidLangat&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite&icon_color=24292f&text_color=24292f&title_color=24292f&bg_color=00000000" height="140" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLangat&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite&text_color=24292f&title_color=24292f&bg_color=00000000" height="140" alt="languages" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidLangat&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true" alt="contribution graph" />
+
+---
+
+<sub>Nairobi · UTC+3 · Building software that carries weight</sub>
