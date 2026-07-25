@@ -74,8 +74,8 @@ intelligence TensorFlow · Azure ML · Core ML · Create ML
 ### Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidLangat&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite&icon_color=24292f&text_color=24292f&title_color=24292f&bg_color=00000000" height="140" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLangat&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite&text_color=24292f&title_color=24292f&bg_color=00000000" height="140" alt="languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=DavidLangat&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite&icon_color=24292f&text_color=24292f&title_color=24292f&bg_color=00000000" height="140" alt="stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DavidLangat&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite&text_color=24292f&title_color=24292f&bg_color=00000000" height="140" alt="languages" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidLangat&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true" alt="contribution graph" />
