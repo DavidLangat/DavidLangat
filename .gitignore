@@ -1,6 +1,8 @@
 # Ignore everything by default
 /*
 
-# Whitelist only README.md and .gitignore
+# Whitelist the profile README, its generated stats cards and the workflow that builds them
 !/.gitignore
 !/README.md
+!/profile/
+!/.github/
